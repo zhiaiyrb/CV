@@ -37,7 +37,7 @@
 
 ---
 
-# Projects
+# 项目
 `2011年`
 
 ![](http://tt1535-deercv.stor.sinaapp.com/5818b7f6dfbb3.jpg)
@@ -47,10 +47,10 @@
 
 `2012年`
 
-![](http://tt1535-deercv.stor.sinaapp.com/5818c1d45c1d4.png)
+![](http://tt1535-deercv.stor.sinaapp.com/5818dc77dea28.png)
 
 [skyrider for tango](https://itunes.apple.com/cn/app/sky-rider-for-tango/id715396511?mt=8)
-是我在幻想时代承担的受托项目之一，是和知名西方IM平台Tango一同进行开发的游戏。我在其中担任游戏核心的所有程序开发工作。在这个项目中，我和美国的平台工程师，韩国的美术团队，相互协作推进项目进行，可以说是一段奇妙的开发体验。游戏的简体中文版[天空骑士](https://itunes.apple.com/cn/app/tian-kong-qi-shi-zhong-wen-ban/id635711566?mt=8)曾经获得过中国区免费榜前5的好成绩。
+是我在幻想时代项目之一，是和知名西方IM平台Tango一同进行开发的游戏。我在其中担任游戏核心的所有程序开发工作。在这个项目中，我和美国的平台工程师，韩国的美术团队，相互协作推进项目进行，可以说是一段奇妙的开发体验。游戏的简体中文版[天空骑士](https://itunes.apple.com/cn/app/tian-kong-qi-shi-zhong-wen-ban/id635711566?mt=8)曾经获得过中国区免费榜前5的好成绩。
 
 `2013年`
 
