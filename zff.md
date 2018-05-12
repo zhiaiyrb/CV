@@ -39,14 +39,14 @@
 # 项目
 `2011年`
 
-![](http://tt1535-deercv.stor.sinaapp.com/5818b7f6dfbb3.jpg)
-![](http://tt1535-deercv.stor.sinaapp.com/5818b6cd95a7e.jpg)
+![](https://github.com/zhiaiyrb/CV/blob/master/img/1.bmp)
+![](https://github.com/zhiaiyrb/CV/blob/master/img/2.bmp)
 
 [金华二人麻将](http://shouji.baidu.com/game/148676.html)和[凤凰双扣](http://shouji.baidu.com/game/1509349.html)是我在幻想时代的首批作品，我带领团队开发的棋牌手机游戏。游戏基于pc版凤凰山庄棋牌平台，其中我编写的网络底层实现了手机版本和pc版本游戏大厅，游戏内容联机玩法。这两款游戏为后来的平台其他游戏移植奠定了基础，填补了公司在移动领域的空白，占领早期的手机休闲游戏市场。
 
 `2012年`
 
-![](http://tt1535-deercv.stor.sinaapp.com/5818dc77dea28.png)
+![](https://github.com/zhiaiyrb/CV/blob/master/img/3.bmp)
 
 [skyrider for tango](https://itunes.apple.com/cn/app/sky-rider-for-tango/id715396511?mt=8)
 
@@ -54,7 +54,7 @@
 
 `2013年`
 
-![](http://tt1535-deercv.stor.sinaapp.com/5818c3d6a8e58.jpg)
+![](https://github.com/zhiaiyrb/CV/blob/master/img/4.bmp)
 
 [有妖气之大圣娶亲](http://u.360.cn/yyq/)
 
@@ -63,7 +63,7 @@
 
 `2014年`
 
-![](http://tt1535-deercv.stor.sinaapp.com/5818c66feb00c.jpg)
+![](https://github.com/zhiaiyrb/CV/blob/master/img/5.bmp)
 
 [中华英雄传3D](http://zhyxz.tdgame.cn/)
 
@@ -71,7 +71,7 @@
 
 `2015年`
 
-![](http://tt1535-deercv.stor.sinaapp.com/5818c99808d5f.png)
+![](https://github.com/zhiaiyrb/CV/blob/master/img/6.bmp)
 
 
 天使荣耀是一款大型网络MMO。目前在做上线前最后准备。我全程参与了游戏开发。主要负责技能系统，拍卖行系统，图鉴系统等大量游戏系统设计和开发。游戏资源管理，构建自动化，数据统计，所有ios和android手机底层相关功能（web嵌入，定位，语音收集和语音翻译文字等）。渠道方面appstore,google play,越南mobo，韩国kako，国内大约20多个渠道登陆和支付系统全部一人独立完成。
