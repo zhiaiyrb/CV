@@ -73,21 +73,29 @@
 
 是我在幻想时代参与的最后一个项目。游戏基于unity3d制作，由于是中期加入该项目组，所以主要负责优化和渠道部分。我在接手后，把当时峰值内存占用400mb占用降低到了120mb,又精心优化了ui渲染，使其可以在低档机型上也可以流畅运行。
 
-`2015年`
+`2016年`
 
 ![](https://github.com/zhiaiyrb/CV/blob/master/img/6.bmp)
 
+天使荣耀是一款大型网络MMO。我全程参与了游戏开发。主要负责技能系统，拍卖行系统，图鉴系统等大量游戏系统设计和开发。游戏资源管理，构建自动化，数据统计，所有ios和android手机底层相关功能（web嵌入，定位，语音收集和语音翻译文字等）。渠道方面appstore,google play,越南mobo，韩国kako，国内大约20多个渠道登陆和支付系统全部一人独立完成。
 
-天使荣耀是一款大型网络MMO。目前在做上线前最后准备。我全程参与了游戏开发。主要负责技能系统，拍卖行系统，图鉴系统等大量游戏系统设计和开发。游戏资源管理，构建自动化，数据统计，所有ios和android手机底层相关功能（web嵌入，定位，语音收集和语音翻译文字等）。渠道方面appstore,google play,越南mobo，韩国kako，国内大约20多个渠道登陆和支付系统全部一人独立完成。
+
+`2017`
+
+![](https://github.com/zhiaiyrb/CV/blob/master/img/7.png)
+
+[玛雅纪元](http://http://www.9game.cn/myjy/)
+
+玛雅纪元是由37代理发行的MMORPG。我主要负责程序团队底层技术，运维工具，管理后台搭建。
+
 
 ---
-`2017`
 # 技能清单
 
 以下均为我熟练使用的技能
 
 - 后端：.NET core/ Node.js /Orleans
-- 前端：ios android native/Cocos2d-x/Unity3d/weex
+- 前端：ios android native/Cocos2d-x/Unity3d/
 - 数据库相关：MySQL/Redis
 - 版本管理和自动化部署工具：Svn/Git/atlassian bamboo/jenkins
 
