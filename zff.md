@@ -11,8 +11,6 @@
 
 # 个人信息						
 
- <center>![](http://tt1535-deercv.stor.sinaapp.com/5818a790bf0a9.png)</center>
-
  - 张菲菲/男/1982                      
  - 本科/新西兰奥克兰大学计算机科学 
  - 工作年限：12年
