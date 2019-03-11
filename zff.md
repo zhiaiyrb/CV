@@ -13,7 +13,7 @@
 
  - 张菲菲/男/1982                      
  - 本科/新西兰奥克兰大学计算机科学 
- - 工作年限：12年
+ - 工作年限：13年
 
  - 期望职位：高级程序员，程序架构师
 
@@ -30,11 +30,11 @@
  
 ## 薄荷酷游网络技术有限公司 （ 2014年6月 ~ 2016年2月 ）
 
-在公司中主要负责游戏大量游戏功能和底层工具开发。并负责给其他工程师技术支持。
+在公司中主要负责前端主框架和前后端大量游戏逻辑。并负责给其他工程师技术支持。
 
-## 北京游标科技有限公司 （ 2016年2月 ~ 至今 ）
+## 北京游标科技有限公司 （ 2016年2月 ~ 2018年12月 ）
 
-带领程序团队进行游戏开发。
+优化游戏运行效率，包体大小，多语言适配，多包过审等问题。帮助公司申请游戏专利。运维平台搭建。
  
 ---
 
@@ -44,13 +44,15 @@
 ![](https://github.com/zhiaiyrb/CV/blob/master/img/1.bmp)
 ![](https://github.com/zhiaiyrb/CV/blob/master/img/2.bmp)
 
-[金华二人麻将](http://shouji.baidu.com/game/148676.html)和[凤凰双扣](http://shouji.baidu.com/game/1509349.html)是我在幻想时代的首批作品，我带领团队开发的棋牌手机游戏。游戏基于pc版凤凰山庄棋牌平台，其中我编写的网络底层实现了手机版本和pc版本游戏大厅，游戏内容联机玩法。这两款游戏为后来的平台其他游戏移植奠定了基础，填补了公司在移动领域的空白，占领早期的手机休闲游戏市场。
+金华二人麻将[http://shouji.baidu.com/game/148676.html](http://shouji.baidu.com/game/148676.html)  
+凤凰双扣[http://shouji.baidu.com/game/1509349.html](http://shouji.baidu.com/game/1509349.html)  
+这两款游戏是我在幻想时代的首批作品。游戏基于pc版凤凰山庄棋牌平台，其中我编写的网络底层实现了手机版本和pc版本游戏大厅，游戏内容联机玩法。这两款游戏为后来的平台其他游戏移植奠定了基础，填补了公司在移动领域的空白，占领早期的手机休闲游戏市场。
 
 `2012年`
 
 ![](https://github.com/zhiaiyrb/CV/blob/master/img/3.bmp)
 
-[skyrider for tango](https://itunes.apple.com/cn/app/sky-rider-for-tango/id715396511?mt=8)
+skyrider for tango[https://itunes.apple.com/cn/app/sky-rider-for-tango/id715396511?mt=8](https://itunes.apple.com/cn/app/sky-rider-for-tango/id715396511?mt=8)
 
 是我在幻想时代项目之一，是和知名西方IM平台Tango一同进行开发的游戏。我在其中担任游戏核心的所有程序开发工作。在这个项目中，我和美国的平台工程师，韩国的美术团队，相互协作推进项目进行，可以说是一段奇妙的开发体验。游戏的简体中文版[天空骑士](https://itunes.apple.com/cn/app/tian-kong-qi-shi-zhong-wen-ban/id635711566?mt=8)曾经获得过中国区免费榜前5的好成绩。
 
@@ -58,7 +60,7 @@
 
 ![](https://github.com/zhiaiyrb/CV/blob/master/img/4.bmp)
 
-[有妖气之大圣娶亲](http://u.360.cn/yyq/)
+有妖气之大圣娶亲[http://u.360.cn/yyq/](http://u.360.cn/yyq/)
 
 是一款幻想时代研发，晨之科代理的卡牌回合战斗游戏。游戏中采用了先进的骨骼动画系统，有着优秀的同时代画面表现。我担任客户端大部分功能，自动化版本，渠道接入等工作。开发过程中对组内其他工程师提供技术支援和一定的指导。游戏首日下载量超过30w次。
 
@@ -67,7 +69,7 @@
 
 ![](https://github.com/zhiaiyrb/CV/blob/master/img/5.bmp)
 
-[中华英雄传3D](http://zhyxz.tdgame.cn/)
+中华英雄传3D[http://zhyxz.tdgame.cn/](http://zhyxz.tdgame.cn/)
 
 是我在幻想时代参与的最后一个项目。游戏基于unity3d制作，由于是中期加入该项目组，所以主要负责优化和渠道部分。我在接手后，把当时峰值内存占用400mb占用降低到了120mb,又精心优化了ui渲染，使其可以在低档机型上也可以流畅运行。
 
@@ -82,7 +84,7 @@
 
 ![](https://github.com/zhiaiyrb/CV/blob/master/img/7.png)
 
-[玛雅纪元](http://http://www.9game.cn/myjy/)
+玛雅纪元[(http://http://www.9game.cn/myjy/)](http://http://www.9game.cn/myjy/)
 
 玛雅纪元是由37代理发行的MMORPG。我主要负责程序团队底层技术，运维工具，管理后台搭建。ios马甲包多包送审相关。
 
@@ -93,9 +95,9 @@
 以下均为我熟练使用的技能
 
 - 后端：.NET core/ Node.js /Orleans
-- 前端：ios android native/Cocos2d-x/Unity3d/
+- 前端：3d图形学/ios android native/Cocos2d-x/Unity3d/
 - 数据库相关：MySQL/Redis
-- 版本管理和自动化部署工具：Svn/Git/atlassian bamboo/jenkins
+- 版本管理和自动化部署工具：Svn/Git/atlassian 全家桶/jenkins
 
 ---
 
